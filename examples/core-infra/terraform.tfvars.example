@@ -1,5 +1,5 @@
 
 # You should update the below variables
 
-aws_region        = "us-west-2"
+aws_region        = "us-east-1"
 core_stack_name   = "ecs-blueprint-infra"
